@@ -1,10 +1,10 @@
 # Hello World! 👋
 
-I'm [Your GitHub Username]—a System Analyst, budding entrepreneur, and a passionate learner, currently diving deep into the realms of Computer Science and AI at a University in the Permian Basin.
+I'm Druspect—a System Analyst, budding entrepreneur, and passionate learner. I am currently diving deep into the realms of Computer Science and AI at Southern Methodist University.
 
 ## About Me 🚀
 
-- **Work**: I specialize in managing HPC systems, always looking to optimize performance and efficiency. My day-to-day involves making computational magic happen at the University.
+- **Work**: I specialize in managing HPC systems, Licensing servers, and providing automation to the ITS department. I am always looking to optimize performance and efficiency. 
 - **Learning**: Currently pursuing my Master's in Computer Science and AI, focused on research methods and practical applications.
 - **Hobbies**: When not tangled in code, I enjoy disc golf, exploring new video games, and spending cherished moments with family.
 - **Interests**: I am deeply interested in topics like AI innovations, geological wonders, and the intersection of science and faith.
@@ -18,8 +18,8 @@ I'm [Your GitHub Username]—a System Analyst, budding entrepreneur, and a passi
 ## Tech Stack 🛠️
 
 - **Languages**: Proficient in Python, C++, Rust
-- **Tools**: Extensive experience with Linux, enjoying the journey of mastering macOS
-- **Projects**: Implementing solutions for remote server access, license server management, and optimizing development environments.
+- **Tools**: Extensive experience with Linux and Windows, enjoying the journey of mastering macOS
+- **Projects**: Implementing solutions for remote server access, license server management, and optimizing development environments to name a few.
 
 ## Fun Fact 🌟
 
