@@ -5,9 +5,9 @@ I'm Druspect—a System Analyst, budding entrepreneur, and passionate learner. I
 ## About Me 🚀
 
 - **Work**: I specialize in managing HPC systems, Licensing servers, and providing automation to the ITS department. I am always looking to optimize performance and efficiency. 
-- **Learning**: Currently pursuing my Master's in Computer Science and AI, focused on research methods and practical applications.
-- **Hobbies**: When not tangled in code, I enjoy disc golf, exploring new video games, and spending cherished moments with family.
-- **Interests**: I am deeply interested in topics like AI innovations, geological wonders, and the intersection of science and faith.
+- **Learning**: Currently pursuing my Master's in Computer Science and AI, focused on research methods and practical applications for automation and narrow ai.
+- **Hobbies**: When not tangled in code, I enjoy disc golf, exploring new virtual worlds, and spending cherished moments with my ever increasing family.
+- **Interests**: I am deeply interested in topics like narrow AI innovations, geological phenomenon, and the intersection of science and faith.
 
 ## Goals 🎯
 
@@ -21,9 +21,11 @@ I'm Druspect—a System Analyst, budding entrepreneur, and passionate learner. I
 - **Tools**: Extensive experience with Linux and Windows, enjoying the journey of mastering macOS
 - **Projects**: Implementing solutions for remote server access, license server management, and optimizing development environments to name a few.
 
-## Fun Fact 🌟
+## Fun Facts 🌟
 
-- I'm a big fan of Sci-Fi, Anime, and Cartoons. If you have any recommendations or want to chat about the latest series, hit me up!
+- I'm a big fan of Sci-Fiand Anime. If you have any recommendations or want to chat about the latest series, hit me up!
+- Avid Disc Golfer and Teammate of "Disc Devils" a west Texas based disc golf team.
+- Outdoorsman, never lost that adventure seeking personality aspect.
 
 ## Connect with Me 🌐
 
