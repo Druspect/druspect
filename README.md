@@ -12,7 +12,7 @@ I'm Druspect—a System Analyst, budding entrepreneur, and passionate learner. I
 ## Goals 🎯
 
 - Launching my own IT consulting firm.
-- Developing a Personal AI assistant.
+- Developing a Personal AI assistant that can rival a LLM.
 - Continuously learning and mastering new technologies.
 
 ## Tech Stack 🛠️
