@@ -25,11 +25,7 @@ I'm Druspect—a System Analyst, budding entrepreneur, and passionate learner. I
 
 - I'm a big fan of Sci-Fiand Anime. If you have any recommendations or want to chat about the latest series, hit me up!
 - Avid Disc Golfer and Teammate of "Disc Devils" a west Texas based disc golf team.
-- Outdoorsman, never lost that adventure seeking personality aspect.
-
-## Connect with Me 🌐
-
-- [LinkedIn](https://www.linkedin.com/in/matthew-fuller-6995b6127/)
+- Outdoorsman
 
 
 Thank you for visiting my GitHub profile! If you're interested in collaborating on projects or just want to talk tech, feel free to reach out. 📬
