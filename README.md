@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-I'm Druspect—a System Analyst, budding entrepreneur, and passionate learner. I am currently diving deep into the realms of Computer Science and AI.
+I'm Druspect—a System Analyst, budding entrepreneur, and passionate learner. I am currently diving deep into the realms of Computer Science and AI via a Master's Degree.
 
 ## About Me 🚀
 
