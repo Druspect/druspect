@@ -4,19 +4,19 @@ I'm Druspect — a System Analyst, automation engineer, geologist, and passionat
 
 ## About Me 🚀
 
-- **Work**: I specialize in managing HPC systems, Licensing servers, and providing automation assistance to my organization. I am always looking to optimize performance and efficiency regarding research and development.
+- **Work**: I specialize in managing HPC systems, License servers, and providing automation assistance to my organization. I am always looking to optimize performance and efficiency regarding research and development.
   
-- **Learning**: Currently pursuing my Master's in Computer Science and AI, focused on research methods and practical applications for automation and narrow/research ai.
+- **Learning**: Currently pursuing a Master's in Computer Science and AI, focused on research methods and practical applications for automation and applied AI research.
   
-- **Hobbies**: When not tangled in code, I enjoy disc golf, exploring new virtual worlds, and spending cherished moments with my ever increasing family.
+- **Hobbies**: When not tangled in code, I enjoy disc golf, exploring new virtual worlds, and spending cherished moments with my growing family.
   
-- **Interests**: I am deeply interested in topics like AI innovations, geological phenomenon, and the intersection of science and faith.
+- **Interests**: I am deeply interested in topics like AI innovations, geological phenomenon, and the intersection of science and the natural world.
 
 ## Goals 🎯
 
 - Launching my own IT consulting firm.
 - Developing a Personal AI teacher and assistant.
-- Develop Groundbreaking geologic software based on algorithmic methodologies to improve interpretation.
+- Develop groundbreaking geologic software based on algorithmic methodologies to improve interpretation.
 - Continuously learning and mastering new technologies.
 
 ## Tech Stack 🛠️
@@ -36,7 +36,8 @@ I'm Druspect — a System Analyst, automation engineer, geologist, and passionat
 - **Representative Projects**  
   - Automated Slurm-driven Conda environment launcher  
   - License-usage dashboard with real-time alerts  
-  - High-throughput data ingestion and analysis pipelines  
+  - High-throughput data ingestion and analysis pipelines
+  -   
 
 ## Fun Facts 🌟
 
