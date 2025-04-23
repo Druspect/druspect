@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-I'm Druspect — a System Analyst, automation engineer, geologist, and passionate learner. I am currently in a deep dive into the realms of Seismic Stratigraphic interpretation using machine learning algorithms, and applied AI research using HPC resources!
+I'm Druspect — a System Analyst, automation engineer, geologist, and passionate learner. I am currently in a deep dive into the realms of seismic stratigraphic interpretation using machine learning algorithms, and applied AI research using HPC resources!
 
 ## About Me 🚀
 
