@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-I'm Druspect — a System Analyst, automation engineer, geologist, and passionate learner. I am currently diving deep into the realms of Computer Science and AI in my current masters degree.
+I'm Druspect — a System Analyst, automation engineer, geologist, and passionate learner. I am currently diving deep into the realms of Computer Science and AI.
 
 ## About Me 🚀
 
