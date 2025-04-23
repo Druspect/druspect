@@ -34,10 +34,10 @@ I'm Druspect — a System Analyst, automation engineer, geologist, and passionat
   Remote server access, cluster management, environment optimization, JupyterHub resource monitoring
 
 - **Representative Projects**  
-  - Automated Slurm-driven Conda environment launcher  
-  - License-usage dashboard with real-time alerts  
-  - High-throughput data ingestion and analysis pipelines
-  -   
+  - Automated Slurm-driven Conda environment launcher
+  - Software suite of AI optimizing scripts
+  - HPC Slurm and MPI testing
+  - Containerized environments for various uses 
 
 ## Fun Facts 🌟
 
