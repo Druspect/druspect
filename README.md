@@ -10,7 +10,7 @@ Dual master's background in Geology/Geochemistry and Computer Science (AI/ML). I
 
 ## What I Build
 
-**Dumb Automation**
+**Simple Automation**
 Scheduled tasks, workflow elimination, CSV processing, web scraping. If a human is doing it on a timer, it should be automated.
 
 **Data Mining & ETL**
