@@ -25,9 +25,9 @@ Private AI deployments that run on your hardware. No cloud dependency. No data l
 
 ```
 Languages   Python · C++ · Bash · SQL
-ML/AI       PyTorch · TensorFlow · Ollama · Local LLMs
-Data        pandas · DuckDB · SQLite · PostgreSQL · MySQL
-Infra       Docker · Linux (Rocky · Debian · Ubuntu) · HPC/SLURM
+ML/AI       PyTorch · TensorFlow · Ollama · Local LLMs · Lm-Studio · API
+Data        pandas · DuckDB · SQLite · PostgreSQL · MySQL · SQl Server
+Infra       Docker · Linux (Rocky · Debian · Arch) · HPC/SLURM
 Tools       Git · JupyterHub · Conda · pytest
 ```
 
