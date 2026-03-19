@@ -1,4 +1,4 @@
-# Matthew Fuller — Dolostone AI
+# Dolostone AI
 
 **AI Automation · Data Engineering · Local LLM Architecture**
 
