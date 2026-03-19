@@ -1,8 +1,8 @@
-# Dolostone AI
+# Matthew Fuller — Dolostone AI
 
 **AI Automation · Data Engineering · Local LLM Architecture**
 
-Founder of [Dolostone AI](https://dolostoneai.com) an independent consulting firm that builds reliable, open-source automation and data systems for businesses that are done paying for tools they don't own.
+Founder of [Dolostone AI](https://dolostoneai.com) — an independent consulting firm that builds reliable, open-source automation and data systems for businesses that are done paying for tools they don't own.
 
 Dual master's background in Geology/Geochemistry and Computer Science (AI/ML). I approach data the way a geologist reads a core sample: with precision, skepticism, and respect for what it actually says.
 
@@ -10,11 +10,11 @@ Dual master's background in Geology/Geochemistry and Computer Science (AI/ML). I
 
 ## What I Build
 
-**Simple Automation**
+**Dumb Automation**
 Scheduled tasks, workflow elimination, CSV processing, web scraping. If a human is doing it on a timer, it should be automated.
 
 **Data Mining & ETL**
-Messy, siloed, or stranded data transformed into clean, queryable, audit-ready pipelines. DuckDB, SQLite, pandas with no overengineered cloud dependencies or facny AI data stealers.
+Messy, siloed, or stranded data transformed into clean, queryable, audit-ready pipelines. DuckDB, SQLite, pandas — no overengineered cloud dependencies, no black-box data handling.
 
 **Local LLM Architecture**
 Private AI deployments that run on your hardware. No cloud dependency. No data leaving your building. Full sovereignty.
@@ -25,8 +25,8 @@ Private AI deployments that run on your hardware. No cloud dependency. No data l
 
 ```
 Languages   Python · C++ · Bash · SQL
-ML/AI       PyTorch · TensorFlow · Ollama · Local LLMs · Lm-Studio · API
-Data        pandas · DuckDB · SQLite · PostgreSQL · MySQL · SQl Server
+ML/AI       PyTorch · TensorFlow · Ollama · LM Studio · Local LLMs
+Data        pandas · DuckDB · SQLite · PostgreSQL · MySQL · SQL Server
 Infra       Docker · Linux (Rocky · Debian · Arch) · HPC/SLURM
 Tools       Git · JupyterHub · Conda · pytest
 ```
