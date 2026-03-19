@@ -1,41 +1,54 @@
-# Hello World! 👋
+# Matthew Fuller — Dolostone AI
 
-I'm Druspect — a systems analyst, automation engineer, geologist and passionate learner. I am currently diving into seismic stratigraphic interpretation using machine learning algorithms and applied AI research with HPC resources. Im also moonlighting for Blind Algorithms, a non-profit i started with my friends to delivery quality audio based functional computing environments untilizing open-source technologies and software. 
+**AI Automation · Data Engineering · Local LLM Architecture**
 
-## About Me 🚀
+Founder of [Dolostone AI](https://dolostoneai.com) — an independent consulting firm that builds reliable, open-source automation and data systems for businesses that are done paying for tools they don't own.
 
-- **Work**: I specialize in managing HPC systems, license servers and providing automation assistance to my organization. I am always looking to optimize performance and efficiency for research and development.
-- **Learning**: Currently pursuing a Master's in Computer Science and AI, focused on research methods and practical applications for automation and applied AI research.
-- **Hobbies**: When not tangled in code, I enjoy disc golf, exploring new virtual worlds and spending cherished moments with my growing family.
-- **Interests**: I am deeply interested in topics like AI innovations, geological phenomena, and the intersection of science and the natural world.
+Dual master's background in Geology/Geochemistry and Computer Science (AI/ML). I approach data the way a geologist reads a core sample: with precision, skepticism, and respect for what it actually says.
 
-## Goals 🎯
+---
 
-- Launch my own IT consulting firm.
-- Develop a personal AI teacher and assistant.
-- Build groundbreaking geologic software based on algorithmic methodologies to improve interpretation.
-- Continually learn and master new technologies.
+## What I Build
 
-## Tech Stack 🛠️
+**Dumb Automation**
+Scheduled tasks, workflow elimination, CSV processing, web scraping. If a human is doing it on a timer, it should be automated.
 
-- **Languages & Frameworks**
-  Python (NumPy, Pandas, pytest), C++ (STL, Boost), prompt engineering, TensorFlow, PyTorch
-- **DevOps & Systems**
-  Linux (Rocky, Debian, Ubuntu, Arch), Windows, macOS; Docker, Conda, SLURM, Bash/Shell scripting
-- **Data, APIs & Automation**
-  RESTful services, MySQL/PostgreSQL, Git/GitHub, scripted account provisioning, license-server orchestration
-- **HPC & Cloud**
-  Remote server access, cluster management, environment optimization, JupyterHub resource monitoring
-- **Representative Projects**
-  - Automated Slurm-driven Conda environment launcher
-  - Software suite of AI optimizing scripts
-  - HPC Slurm and MPI testing
-  - Containerized environments for various uses
+**Data Mining & ETL**
+Messy, siloed, or stranded data transformed into clean, queryable, audit-ready pipelines. DuckDB, SQLite, pandas — no overengineered cloud dependencies.
 
-## Fun Facts 🌟
+**Local LLM Architecture**
+Private AI deployments that run on your hardware. No cloud dependency. No data leaving your building. Full sovereignty.
 
-- I'm a big fan of Sci-Fi and anime.
-- Avid disc golfer.
-- Outdoorsman and geologist.
+---
 
-Thank you for visiting my GitHub profile! If you're interested in collaborating on projects or just want to talk tech, feel free to reach out. 📬
+## Stack
+
+```
+Languages   Python · C++ · Bash · SQL
+ML/AI       PyTorch · TensorFlow · Ollama · Local LLMs
+Data        pandas · DuckDB · SQLite · PostgreSQL · MySQL
+Infra       Docker · Linux (Rocky · Debian · Ubuntu) · HPC/SLURM
+Tools       Git · JupyterHub · Conda · pytest
+```
+
+---
+
+## Background
+
+- M.S. Computer Science — AI/ML focus *(May 2026)*
+- M.S. Geology/Geochemistry — seismic stratigraphy, data-driven subsurface modeling
+- Systems analyst and automation engineer in HPC environments
+- Open-source first. No vendor lock-in. No black-box dependencies.
+
+---
+
+## Available for Engagements
+
+If your business has repetitive manual processes, stranded data, or needs AI that stays on-premises — let's talk.
+
+🌐 [dolostoneai.com](https://dolostoneai.com)
+💼 [linkedin.com/in/matthew-fuller-ai](https://www.linkedin.com/in/matthew-fuller-ai/)
+
+---
+
+*Built like dolostone — reliable under pressure, harder than it looks.*
