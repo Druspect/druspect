@@ -35,9 +35,9 @@ Tools       Git · JupyterHub · Conda · pytest
 
 ## How We Work
 
-- Open-source first — no proprietary lock-in, clients own their entire stack
-- Linux-native infrastructure — runs anywhere, maintained by any competent team member
-- Data sovereignty — your data stays with you; local-first AI where privacy matters
+- Open-source first: no proprietary lock-in, clients own their entire stack
+- Linux-native infrastructure: runs anywhere, maintained by any competent team member
+- Data sovereignty: your data stays with you; local-first AI where privacy matters
 - Honest fixed-scope engagements — no scope creep, no upsells you don't need
 
 ---
@@ -49,6 +49,4 @@ If your business has repetitive manual processes, stranded data, or needs AI tha
 🌐 [dolostoneai.com](https://dolostoneai.com)
 💼 [linkedin.com/in/matthew-fuller-ai](https://www.linkedin.com/in/matthew-fuller-ai/)
 
----
 
-*Built like dolostone — reliable under pressure, harder than it looks.*
