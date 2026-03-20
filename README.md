@@ -1,14 +1,14 @@
-# Matthew Fuller — Dolostone AI
+# Dolostone AI
 
 **AI Automation · Data Engineering · Local LLM Architecture**
 
-Founder of [Dolostone AI](https://dolostoneai.com) — an independent consulting firm that builds reliable, open-source automation and data systems for businesses that are done paying for tools they don't own.
+[Dolostone AI](https://dolostoneai.com) builds reliable, open-source automation and data systems for businesses that are done paying for tools they don't own.
 
-Dual master's background in Geology/Geochemistry and Computer Science (AI/ML). I approach data the way a geologist reads a core sample: with precision, skepticism, and respect for what it actually says.
+We approach data the way a geologist reads a core sample: with precision, skepticism, and respect for what it actually says.
 
 ---
 
-## What I Build
+## What We Build
 
 **Dumb Automation**
 Scheduled tasks, workflow elimination, CSV processing, web scraping. If a human is doing it on a timer, it should be automated.
@@ -33,12 +33,12 @@ Tools       Git · JupyterHub · Conda · pytest
 
 ---
 
-## Background
+## How We Work
 
-- M.S. Computer Science — AI/ML focus *(May 2026)*
-- M.S. Geology/Geochemistry — seismic stratigraphy, data-driven subsurface modeling
-- Systems analyst and automation engineer in HPC environments
-- Open-source first. No vendor lock-in. No black-box dependencies.
+- Open-source first — no proprietary lock-in, clients own their entire stack
+- Linux-native infrastructure — runs anywhere, maintained by any competent team member
+- Data sovereignty — your data stays with you; local-first AI where privacy matters
+- Honest fixed-scope engagements — no scope creep, no upsells you don't need
 
 ---
 
